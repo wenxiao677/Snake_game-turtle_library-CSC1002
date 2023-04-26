@@ -15,4 +15,4 @@ Third, we need to use the four arrow keys (Up, Down, Left, Right) to maneuver th
 The newest assignment version contains some editions on the food setting. During the game, randomly hide and unhide any unconsumed food items. Use 
 appropriate random timer rate, say few seconds between 5 and 10, then randomly pick one of the unconsumed items (including hidden), if the chosen item is visible, hide it, or unhide it otherwise. Hidden food items cannot be consumed by the snake.
 
-For students from the CUHKSZ, please don't copy my codes to finish your homework. If you want to ask me some questions about this assignment, please email me.
+For students from the CUHKSZ, please don't just simply copy my codes to finish your homework. If you want to ask me some questions about this assignment, please email me.
